@@ -1,0 +1,19 @@
+{
+  "name": "leetgit",
+  "version": "1.0.0",
+  "description": "Creating a chrome extension to update leetcode status on Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "leetcode",
+    "github",
+    "api",
+    "update"
+  ],
+  "author": "Shashank Kumar Chaudhary, Abhinav",
+  "license": "ISC"
+}
